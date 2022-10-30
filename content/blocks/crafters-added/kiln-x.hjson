@@ -1,0 +1,24 @@
+type: GenericCrafter
+name: "Kiln X"
+
+size: 2
+
+itemCapacity: 950
+craftTime: 1
+
+consumes: {
+  items: {
+    items: [ lead/1 ]
+  }
+}
+
+outputItem: metaglass/1
+
+category: crafting
+research: graphite-press-x
+
+requirements: [
+  copper/10
+]
+
+researchCostMultiplier: 0.1

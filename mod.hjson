@@ -1,0 +1,8 @@
+name: better-tech
+displayName: Better Tech
+author: goldie
+description: Better Tech
+version: "1.0.1"
+minGameVersion: "136"
+dependencies: []
+hideBrowser: false

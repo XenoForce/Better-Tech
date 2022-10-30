@@ -1,0 +1,17 @@
+type: Drill
+name: "Drill-X"
+
+size: 2
+
+itemCapacity: 950
+drillTime: 1
+tier: 8
+
+category: production
+research: duo
+
+requirements: [
+  copper/10
+]
+
+researchCostMultiplier: 0.1

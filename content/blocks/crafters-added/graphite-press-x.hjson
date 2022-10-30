@@ -1,0 +1,24 @@
+type: GenericCrafter
+name: "Graphite Press X"
+
+size: 2
+
+itemCapacity: 950
+craftTime: 1
+
+consumes: {
+  items: {
+    items: [ coal/1 ]
+  }
+}
+
+outputItem: graphite/1
+
+category: crafting
+research: drill-x
+
+requirements: [
+  copper/10
+]
+
+researchCostMultiplier: 0.1
