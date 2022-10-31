@@ -1,0 +1,24 @@
+type: GenericCrafter
+name: "Surge Smelter X"
+
+size: 2
+
+itemCapacity: 950
+craftTime: 1
+
+consumes: {
+  items: {
+    items: [ copper/1 ]
+  }
+}
+
+outputItem: surge-alloy/1
+
+category: crafting
+research: silicon-smelter-x
+
+requirements: [
+  copper/10
+]
+
+researchCostMultiplier: 0.1
