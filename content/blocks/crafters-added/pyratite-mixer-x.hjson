@@ -1,0 +1,24 @@
+type: GenericCrafter
+name: "Pyratite Mixer X"
+
+size: 2
+
+itemCapacity: 950
+craftTime: 1
+
+consumes: {
+  items: {
+    items: [ sand/1 ]
+  }
+}
+
+outputItem: pyratite/1
+
+category: crafting
+research: graphite-press-x
+
+requirements: [
+  copper/10
+]
+
+researchCostMultiplier: 0.1
